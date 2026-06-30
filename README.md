@@ -12,7 +12,7 @@ A custom, round digital gauge cluster for an electrified BMW Isetta 300. The pro
 
 ## Display Layout Blueprint
 
-The user interface replicates the mid-century aesthetic of **image_80f580.png** while subtly converting its elements to display critical electric vehicle (EV) metrics.
+The user interface replicates the mid-century aesthetic of original oem gauge while subtly converting its elements to display critical electric vehicle (EV) metrics.
 
 ```
             _______________________
