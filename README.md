@@ -38,7 +38,7 @@ The user interface replicates the mid-century aesthetic of original oem gauge wh
 ## Project Directory Structure
 
 ```text
-Isetta_RetroGauge/
+Isetta-Gauge-Cluster/
 ├── Isetta_RetroGauge.ino    # Main entry point (Setup & FreeRTOS Core Loops)
 ├── curtis_serial.h          # Handles inverted TTL data parsing from the 1268
 ├── curtis_serial.cpp        # Serial implementation & hex-string parsing logic
