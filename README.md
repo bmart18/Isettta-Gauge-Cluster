@@ -1,7 +1,7 @@
 
 ## BMW Isetta 300 EV Retro-Gauge Cluster
 
-A custom, round digital gauge cluster for an electrified BMW Isetta 300. The project uses an ESP32 microcontroller to translate 48V Curtis 1268 controller telemetry into a vintage-accurate VDO speedometer display based on the styling found in **image_80f580.png**.
+A custom, round digital gauge cluster for an electrified BMW Isetta 300. The project uses an ESP32 microcontroller to translate 48V Curtis 1268 controller telemetry into a vintage-accurate VDO speedometer display based on the oem gauge
 
 ---
 
