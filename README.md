@@ -1,8 +1,3 @@
-Here is a complete, structured blueprint for your project. This `README.md` is designed to organize your code, map out the layout to perfectly replicate the vintage VDO gauge from **image_80f580.png**, and structure your ESP32's background logic.
-
----
-
-# README.md
 
 ## BMW Isetta 300 EV Retro-Gauge Cluster
 
